@@ -1,10 +1,10 @@
 # Site
 title:              Rozzi Media Group
 bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+description:        "A boutique media and consulting firm based out of southern New Jersey. Our web properties serve the public with up-to-date news & authoritative information on New Jersey government. We also provide creative, client-centered solutions including technology and media consulting, copy editing, website design."
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://rozzi.media" # the base hostname & protocol for your site
 
 defaults:
 - scope:
