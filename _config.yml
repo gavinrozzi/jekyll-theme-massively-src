@@ -1,6 +1,6 @@
 # Site
 title:              Rozzi Media Group
-bio:                'Jekyll version of the Massively theme by HTML5UP'
+bio:                'Official website of Rozzi Media Group'
 description:        "A boutique media and consulting firm based out of southern New Jersey. Our web properties serve the public with up-to-date news & authoritative information on New Jersey government. We also provide creative, client-centered solutions including technology and media consulting, copy editing, website design."
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -34,11 +34,9 @@ sass:
 disqus_shortname:   default
 
 # Social
-analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+twitter:            gavroz
+facebook:           gavinrozzi
+github:             gavinrozzi
 
 # personal
 location:           Forked River, NJ
